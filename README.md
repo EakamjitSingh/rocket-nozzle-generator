@@ -11,7 +11,7 @@ This Python project generates rocket nozzle contours using the Method of Charact
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/ejsb6004/rocket-nozzle-generator
+git clone https://github.com/EakamjitSingh/rocket-nozzle-generator
 cd rocket-nozzle-generator
 ```
 Install dependencies:
