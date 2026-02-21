@@ -8,6 +8,8 @@ This Python project generates rocket nozzle contours using the Method of Charact
 - Exports contour points to CSV
 - Plots Mach number distribution
 
+![Nozzle Profile](Nozzle.png)
+
 ## Installation
 Clone the repository:
 ```
